@@ -1,0 +1,22 @@
+{
+  "name": "angela-cp02",
+  "version": "1.0.0",
+  "description": "Npm repo from scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angela-kitt/angela-CP02.git"
+  },
+  "author": "angela-kitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angela-kitt/angela-CP02/issues"
+  },
+  "homepage": "https://github.com/angela-kitt/angela-CP02#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
